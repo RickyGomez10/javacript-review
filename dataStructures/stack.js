@@ -51,7 +51,5 @@ stack2.push('value3');
 stack2.push('value4');
 console.log(stack2);
 stack2.pop();
-stack2.pop();
-stack2.pop();
-stack2.pop();
+
 console.log(stack2);
